@@ -1,3 +1,5 @@
+// Aluno: Tallyson Pereira da Silva
+
 typedef struct peso Peso;
 
 Peso *peso_cria(int kg, int g);
